@@ -15,15 +15,15 @@ The project also includes representative input datasets, generated numerical res
 
 For a tridiagonal or block-tridiagonal matrix \(A\), the programs compute a factorization
 
-\[
+$$
 A = LU,
-\]
+$$
 
 then solve
 
-\[
+$$
 Ly=b, \qquad Ux=y.
-\]
+$$
 
 The experiments are designed to study the effect of matrix size and conditioning on the numerical solution.
 
