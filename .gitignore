@@ -1,0 +1,21 @@
+# Compiled binaries and objects
+bin/
+*.o
+*.out
+*.exe
+
+# Editor / IDE files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Python cache / environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
